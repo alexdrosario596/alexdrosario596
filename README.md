@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Alexis Del Rosario
 
-<!--
-**alexdrosario596/alexdrosario596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am a Computer Science graduate from Southern New Hampshire University with a GPA of 3.528 and Cum Laude honors.
 
-Here are some ideas to get you started:
+I have experience in software testing, database technologies, application development, and technical troubleshooting.
+Technical Skills
+C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+
+Java
+
+SQL
+
+MongoDB
+
+SQLite
+
+OpenGL
+
+Git
+
+GitHub
+
+VS Code
+
+
+Testing: Unit testing, integration testing, debugging
+Career Interests
+- Software Quality Assurance
+- Database Support
+- Data Analysis and Data Quality
+- Information Technology
+  Currently Seeking
+  Entry-level remote or hybrid technology opportunities where I can apply my education, develop my technical skills, and contribute to meaningful projects.
